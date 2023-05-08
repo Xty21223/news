@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-image: url("backround.jpg");
 }
 h1 {
   color: purple;
@@ -8,4 +8,5 @@ h1 {
 #MNBAR {
   text-align: center;
   color: red;
+  background-color: lightblue;
 }
