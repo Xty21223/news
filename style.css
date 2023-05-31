@@ -20,6 +20,12 @@ h1 {
   padding: 20px;
   text-align: center;
 }
+.warningbox {
+  background-color: red;
+  color: black;
+  padding: 17px;
+  text-align: center;
+}
 video {
   text-align: center;
 }
